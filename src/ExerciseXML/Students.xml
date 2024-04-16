@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+	<Student>
+		<Name>Nguyen Van A</Name>
+		<ID>SV01</ID>
+		<Birth>12/07/2001</Birth>
+		<GPA>3.4</GPA>
+	</Student>
+	<Student>
+		<Name>Hoang Thi B</Name>
+		<ID>SV02</ID>
+		<Birth>10/01/2002</Birth>
+		<GPA>3.7</GPA>
+	</Student>
+	<Student>
+		<Name>Le Van C</Name>
+		<ID>SV03</ID>
+		<Birth>25/06/2001</Birth>
+		<GPA>3.2</GPA>
+	</Student>
+</Class>
